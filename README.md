@@ -2,7 +2,7 @@
 
 Java image processing
 
-[Shapelogic Java](https://shapelogic.org) is an image processing library focused on bring functional programming methods to Java.
+[Shapelogic Java](http://shapelogic.org) is an image processing library focused on bring functional programming methods to Java.
 It works stand alone and as a plugin to ImageJ.
 
 It was written from 2007 to 2009.
