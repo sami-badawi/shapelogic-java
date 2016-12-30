@@ -1,3 +1,4 @@
+![Logo](https://github.com/sami-badawi/shapelogic/blob/master/docs/image/shapelogicsmallgradient.png)
 # shapelogic-java
 
 Java image processing
